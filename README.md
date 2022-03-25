@@ -16,7 +16,7 @@ Somme: 0 + 0 + 2 + 0 + 0 = 2
 Somme pondere: 0x1 + 0x2 + 2x3 + 0x4 + 0x5 = 6
 ```
 
-PCA va envoyer à PCB ([0,0,2,0,0], (2,6)]
+PCA va envoyer à PCB ([0,0,2,0,0], (2,6))
 
 Imaginons que du bruit altère la ligne contenant le code couleur du bitmap ainsi la ligne devient [0,1,2,0,0]
 
