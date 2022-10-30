@@ -1,4 +1,6 @@
 # CodeCorrecteur
+*Simulation de bruit sur un reseau - Correction d'un bitmap via un code correcteur*
+
 [![Python](https://img.shields.io/badge/python-blue.svg)]()
 [![Tkinter](https://img.shields.io/badge/tkinter-blue.svg)]()
 [![Network](https://img.shields.io/badge/network-blue.svg)]()
