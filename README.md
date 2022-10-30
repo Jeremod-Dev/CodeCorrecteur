@@ -1,4 +1,9 @@
 # CodeCorrecteur
+[![Python](https://img.shields.io/badge/python-blue.svg)]()
+[![Tkinter](https://img.shields.io/badge/tkinter-blue.svg)]()
+[![Network](https://img.shields.io/badge/network-blue.svg)]()
+[![Simulator](https://img.shields.io/badge/simulator-blue.svg)]()
+
 ## Mise en place d'un code correcteur dans le cadre d'une communication de transfère de bitmap
 Ce projet simule l'envoi d'un fichier bitmap entre deux machines PC A et PC B. Seulement, la connexion est mauvaise et du bruit communicationnel viens s'ajouter à l'image envoyé. PC A et PC B se sont alors mis d'accord sur une manière de corriger le bruit du réseau.
 
